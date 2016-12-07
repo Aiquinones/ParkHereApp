@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+
+        <item android:id="@+id/drawer_recientes"
+            android:title="Lugares recientes"/>
+
+        <item android:id="@+id/drawer_fav"
+            android:title="Favoritos"/>
+
+        <item android:id="@+id/drawer_creditos"
+            android:title="Creditos"/>
+
+    </group>
+
+
+</menu>

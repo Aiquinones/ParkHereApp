@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723674138627",
+    "project_id": "parkhere-1312"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723674138627:android:312e296d615fd8f5",
+        "android_client_info": {
+          "package_name": "com.engineering.canoq.parkhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723674138627-e9kkb1kagiqekuo3079o368dhvsqj50h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.engineering.canoq.parkhere",
+            "certificate_hash": "588B7098D16DF2DE32AD9E715335877C3010CFA8"
+          }
+        },
+        {
+          "client_id": "723674138627-crovg9f0lulbdbg7u6nr85fiec93nv39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlpSWFLFiQqBIhvpvvb7qwrtfnYr_jw58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
